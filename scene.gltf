@@ -432,13 +432,13 @@
   ],
   "images": [
     {
-      "uri": "textures/02_-_Default_baseColor.png"
+      "uri": "02_-_Default_baseColor.png"
     },
     {
-      "uri": "textures/03_-_Default_baseColor.png"
+      "uri": "03_-_Default_baseColor.png"
     },
     {
-      "uri": "textures/08_-_Default_baseColor.png"
+      "uri": "08_-_Default_baseColor.png"
     }
   ],
   "materials": [
